@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\bin\Debug\net8.0\ArquivoJson.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\bin\Debug\net8.0\ArquivoJson.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\bin\Debug\net8.0\ArquivoJson.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\bin\Debug\net8.0\ArquivoJson.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\bin\Debug\net8.0\ArquivoJson.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\refint\ArquivoJson.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ArquivoJson.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ArquivoJson\obj\Debug\net8.0\ref\ArquivoJson.dll
